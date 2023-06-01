@@ -44,7 +44,7 @@ Topics Covered:
 
 **Mini-Project**: Write a simple class-based system to represent geometric shapes and their properties.
 
-#### Chapter 6: Working with Databases
+#### Chapter 6: [Working with Databases](chapter-6-working-with-databases.md)
 Topics Covered:
 - Introduction to SQLite.
 - CRUD Operations.
@@ -53,7 +53,7 @@ Topics Covered:
 
 **Mini-Project**: Write a program to manage a SQLite database of books.
 
-#### Chapter 7: Web Scraping with Python
+#### [Chapter 7: Web Scraping with Python](chapter-7-web-scraping.md)
 Topics Covered:
 - Introduction to HTML/CSS.
 - Understanding Web Scraping.
