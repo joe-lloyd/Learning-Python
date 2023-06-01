@@ -27,7 +27,7 @@ def calculate(num1, num2, operation):
 
 # Function to print the result
 def print_result(result):
-    print("The result is: " + str(result))
+    print("The result is: {0}".format(str(result)))
 
 
 # Main function

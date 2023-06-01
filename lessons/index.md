@@ -35,7 +35,7 @@ Topics Covered:
 
 **Mini-Project**: Write a script that reads a text file, counts the frequency of words, and prints the top 5 most common words.
 
-#### Chapter 5: Introduction to OOP (Object-Oriented Programming)
+#### Chapter 5: [Introduction to OOP (Object-Oriented Programming)](chapter-5-oop.md)
 Topics Covered:
 - Classes and Objects.
 - Inheritance.
